@@ -7,6 +7,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidMarinhoDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitario IESB. Atualmente estudo Java e JavaScript paralelamente.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+
 ###
 
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnd4dWh2ZzliNmt1a3I3czBvdjFnNTlqajV1bjhta2pucXJoejlqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/if9niVFg4IwAE/giphy.gif"  />
